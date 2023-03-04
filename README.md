@@ -23,13 +23,21 @@ kz, use in offline server to change game settings to default kz game settings
 kzvanilla, same as kz but uses kz vanilla settings
 
 Quick console commands
+
 d = disconnect
+
 q = quit
+
 r = refresh autoexec
+
 s = shows server location and player pings
+
 a = lists aliases
 
 Other aliases:
+
 4 = jumpthrow
+
 tab = brings up net_graph which shows detailed server stats as well as fps
+
 space = holding changes sens to 5 usefull for hitting certain skill jumps and general strafing

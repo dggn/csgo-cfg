@@ -22,7 +22,7 @@ kz, use in offline server to change game settings to default kz game settings
 
 kzvanilla, same as kz but uses kz vanilla settings
 
-Quick console commands
+Quick console commands:
 
 d = disconnect
 

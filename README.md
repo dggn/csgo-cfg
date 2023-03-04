@@ -1,4 +1,4 @@
-Paste all files into csgo cfg directory and add +exec autoexec to launch options to use.
+Paste all .cfg files into csgo cfg directory (commonly found in steam/steamapps/common/Counter-Strike-Global-Offensive/csgo/cfg) and add +exec autoexec to launch options to use.
 
 Main file is autoexec.cfg which contains all binds game settings and aliases so be sure to read through it fully as it will wipe your current binds when run, most commands are self explanatory if you dont know what one does just google it.
 

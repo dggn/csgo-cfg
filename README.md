@@ -5,6 +5,7 @@ Main file is autoexec.cfg which contains all binds game settings and aliases so 
 Main crosshairs are stored in Riflecrosshair.cfg, Pistolcrosshair.cfg, Knifecrosshair.cfg and Grenadecrosshair.cfg, simply change out those settings with preffered ones if needed
 
 Aliases:
+
 Dot, changes out default rifle and pistol crosshairs for a simple dot crosshair
 
 vm, change to a more centered viewmodel
